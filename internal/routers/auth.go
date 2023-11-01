@@ -2,9 +2,9 @@ package routers
 
 import (
 	"github.com/ankeshnirala/order-mgmt/auth-service/internal/handlers"
-	"github.com/ankeshnirala/order-mgmt/common-service/constants/endpoints"
-	"github.com/ankeshnirala/order-mgmt/common-service/middleware"
-	"github.com/ankeshnirala/order-mgmt/common-service/utils/commfunc"
+	"github.com/product-mgmt/common-service/constants/endpoints"
+	"github.com/product-mgmt/common-service/middleware"
+	"github.com/product-mgmt/common-service/utils/commfunc"
 )
 
 func (s *Storage) RegisterAuthRoutes() {

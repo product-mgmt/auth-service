@@ -3,7 +3,7 @@ package handlers
 import (
 	"github.com/sirupsen/logrus"
 
-	"github.com/ankeshnirala/order-mgmt/common-service/storage"
+	"github.com/product-mgmt/common-service/storage"
 )
 
 type Storage struct {

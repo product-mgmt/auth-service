@@ -4,9 +4,9 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
 
-	"github.com/ankeshnirala/order-mgmt/common-service/middleware"
-	"github.com/ankeshnirala/order-mgmt/common-service/storage"
-	"github.com/ankeshnirala/order-mgmt/common-service/utils/commfunc"
+	"github.com/product-mgmt/common-service/middleware"
+	"github.com/product-mgmt/common-service/storage"
+	"github.com/product-mgmt/common-service/utils/commfunc"
 )
 
 type Storage struct {

@@ -9,7 +9,7 @@ import (
 	"github.com/sirupsen/logrus"
 
 	"github.com/ankeshnirala/order-mgmt/auth-service/cmd/api"
-	"github.com/ankeshnirala/order-mgmt/common-service/storage/sql"
+	"github.com/product-mgmt/common-service/storage/sql"
 )
 
 func main() {
