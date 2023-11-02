@@ -27,7 +27,7 @@ func main() {
 	// load config
 	err := godotenv.Load(".env")
 	if err != nil {
-		logger.Error("configuration loading error")
+		logger.Error("configuration loading error", err)
 		os.Exit(1)
 	}
 
