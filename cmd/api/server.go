@@ -8,7 +8,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
 
-	"github.com/ankeshnirala/order-mgmt/auth-service/internal/routers"
+	"github.com/product-mgmt/auth-service/internal/routers"
 	"github.com/product-mgmt/common-service/middleware"
 	"github.com/product-mgmt/common-service/storage"
 	"github.com/product-mgmt/common-service/utils/shutdown"

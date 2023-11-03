@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/ankeshnirala/order-mgmt/auth-service/internal/handlers"
+	"github.com/product-mgmt/auth-service/internal/handlers"
 	"github.com/product-mgmt/common-service/constants/endpoints"
 	"github.com/product-mgmt/common-service/middleware"
 	"github.com/product-mgmt/common-service/utils/commfunc"

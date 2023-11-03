@@ -8,7 +8,7 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/sirupsen/logrus"
 
-	"github.com/ankeshnirala/order-mgmt/auth-service/cmd/api"
+	"github.com/product-mgmt/auth-service/cmd/api"
 	"github.com/product-mgmt/common-service/storage/sql"
 )
 

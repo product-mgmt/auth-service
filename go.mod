@@ -1,4 +1,4 @@
-module github.com/ankeshnirala/order-mgmt/auth-service
+module github.com/product-mgmt/auth-service
 
 go 1.21.3
 
